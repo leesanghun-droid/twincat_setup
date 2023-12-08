@@ -18,7 +18,7 @@
 7. Enable C++ Debugger
 
 8. C++ ADD Project
-==> TwinCAT Driver Project 
+==> TwinCAT Versionde C++ Project 
 ==> TwinCAT Module Class with Cyclic IO
 ==> ADD C++ Modules ( Module1)
 ==> Module1 setup => Context Task = Select made task
@@ -38,3 +38,11 @@
 12. Activate configuration
 ==> error
     Error starting Untitled1 server. Win32 Error: 87 
+    ==> goto 8. need Versionde Project
+
+==> error
+    C:\TwinCAT\3.1\Target\OemCertificates\ ~~~
+    ==> run lsh_b264256b-c233-11ce-3ffb-f1d065cd3abc.reg
+
+13. Activate configuration
+==> OK~~
